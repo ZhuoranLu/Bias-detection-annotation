@@ -5,7 +5,7 @@ This is a repository for the data collected in the study "Towards Better Detecti
 Here attached a sample of the annotations made by subjects. Each row is an annotation on one piece of text.
 
 | _id | workerID | prediction | label | stance | text | 
-| -------- | ---------------------| -----------------------  | ------------| ----- | ---------- | ----------------- | 
+| -------- | ---------------------| -----------------------  | ------------| ---------- | ----------------- | 
 | 22CeEjpsgia8wnYeL | worker33 | Biased | Non-biased | Democrats | Football supports Trump in its promotion of ...|
 
 
